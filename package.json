@@ -11,6 +11,10 @@
 	"author": "Ben Myers <ben@benmyers.dev>",
 	"license": "ISC",
 	"dependencies": {
-		"@11ty/eleventy": "^1.0.0"
+		"@11ty/eleventy": "^1.0.0",
+		"generate-comparators": "^1.0.3",
+		"is-odd": "^3.0.1",
+		"to-camel-case": "^1.0.0",
+		"uuid": "^8.3.2"
 	}
 }
